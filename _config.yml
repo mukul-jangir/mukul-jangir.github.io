@@ -1,4 +1,4 @@
-url: "https://jakewharton.com"
+url: "https://mukul-jangir.com"
 
 highlighter: rouge
 permalink: /:title/
@@ -17,13 +17,13 @@ collections:
   podcasts:
 
 include:
-  - '.well-known'
-  - '_redirects'
+  - ".well-known"
+  - "_redirects"
 
 exclude:
-  - 'node_modules'
-  - 'scripts'
-  - 'vendor'
+  - "node_modules"
+  - "scripts"
+  - "vendor"
   - out
   - capture
   - Gemfile
